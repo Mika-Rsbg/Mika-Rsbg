@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mika-Rsbg
 - 👀 I’m interested in Python, Java, coding, animating, computers, math, artificial neural networks and science
-- 🌱 I’m currently learning Adobe After Effects (sometimes) and I'm looking forward in learnign C# or C++
+- 🌱 I’m currently learning Adobe After Effects (sometimes) and I'm looking forward to start learning C# or C++
 - 💞️ I’m looking to collaborate on Projects coded in Python or Java (with GUI, SQL or interesting purposes)
 - 📫 How to reach me, you're already here.
 - 🚀 Skills ![Python](https://img.shields.io/badge/Python-blue) ![Java](https://img.shields.io/badge/Java-red) ![SQL](https://img.shields.io/badge/SQL-orange) ![Object-Oriented Programming](https://img.shields.io/badge/OOP-green)
