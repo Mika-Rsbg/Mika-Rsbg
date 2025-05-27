@@ -5,7 +5,8 @@
 - 📫 How to reach me, you're already here. (I will add a contact methode later!)
 - 🚀 Skills ![Python](https://img.shields.io/badge/Python-blue) ![Java](https://img.shields.io/badge/Java-red) ![SQL](https://img.shields.io/badge/SQL-orange) ![Object-Oriented Programming](https://img.shields.io/badge/OOP-green)
 
-count down
+## count down:
+4
 
 <!---
 Mika-Rsbg/Mika-Rsbg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
