@@ -8,6 +8,9 @@
 ## count down:
 4
 
+## Hyped Projects:
+Mika-Rsbg/Budget-Planner
+
 <!---
 Mika-Rsbg/Mika-Rsbg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
