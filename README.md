@@ -6,7 +6,7 @@
 - 🚀 Skills ![Python](https://img.shields.io/badge/Python-blue) ![Java](https://img.shields.io/badge/Java-red) ![SQL](https://img.shields.io/badge/SQL-orange) ![Object-Oriented Programming](https://img.shields.io/badge/OOP-green)
 
 ## count down:
--2
+-3
 
 ## Hyped Projects:
 Mika-Rsbg/Budget-Planner
