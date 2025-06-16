@@ -5,8 +5,8 @@
 - 📫 How to reach me, you're already here. (I will add a contact methode later!)
 - 🚀 Skills ![Python](https://img.shields.io/badge/Python-blue) ![Java](https://img.shields.io/badge/Java-red) ![SQL](https://img.shields.io/badge/SQL-orange) ![Object-Oriented Programming](https://img.shields.io/badge/OOP-green)
 
-## count down:
--9
+## Streak:
+1
 
 ## Hyped Projects:
 Mika-Rsbg/Budget-Planner
