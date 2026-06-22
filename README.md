@@ -5,9 +5,6 @@
 - 📫 How to reach me, you're already here. (I will add a contact methode later!)
 - ![Python](https://img.shields.io/badge/Python-blue) ![Java](https://img.shields.io/badge/Java-red) ![C#](https://img.shields.io/badge/csharp-blue)  ![SQL](https://img.shields.io/badge/SQL-orange)
 
-## Streak:
-4
-
 ## Hyped Projects:
 Mika-Rsbg/Budget-Planner (best project ever)
 
